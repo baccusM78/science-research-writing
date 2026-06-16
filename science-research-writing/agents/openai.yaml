@@ -1,4 +1,0 @@
-interface:
-  display_name: "Science Research Writing"
-  short_description: "Reverse-engineer STEMM papers for writing"
-  default_prompt: "Use $science-research-writing to reverse-engineer target articles and draft a research-paper section."
